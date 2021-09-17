@@ -1,4 +1,6 @@
 % check_force_velocity
+% we fix XXXXX and check that the force vel relationship looks like Hill.
+% JDW-2021-09-17
 clear all;
 load params2.mat
 par = load_param2(param,1); %for extensor elbow
